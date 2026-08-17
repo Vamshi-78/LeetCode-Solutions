@@ -6,6 +6,7 @@ My daily leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -19,4 +20,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
