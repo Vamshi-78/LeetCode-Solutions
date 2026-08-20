@@ -26,6 +26,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -39,4 +40,12 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
