@@ -61,4 +61,5 @@ My daily leetcode submissions
 | ------- |
 | [0043-multiply-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
