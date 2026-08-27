@@ -35,6 +35,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -52,6 +53,7 @@ My daily leetcode submissions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 ## Design
@@ -97,4 +99,8 @@ My daily leetcode submissions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
