@@ -38,6 +38,7 @@ My daily leetcode submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -103,4 +104,12 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
