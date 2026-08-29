@@ -77,6 +77,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -95,6 +96,7 @@ My daily leetcode submissions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0143-reorder-list) |
 ## Sliding Window
 |  |
