@@ -119,4 +119,20 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
