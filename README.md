@@ -42,6 +42,7 @@ My daily leetcode submissions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3452-sum-of-good-numbers](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
