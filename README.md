@@ -91,6 +91,7 @@ My daily leetcode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -118,6 +119,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
