@@ -68,6 +68,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 ## Design
@@ -92,6 +93,7 @@ My daily leetcode submissions
 | [0009-palindrome-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -183,4 +185,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
