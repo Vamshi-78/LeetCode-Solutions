@@ -15,6 +15,7 @@ My daily leetcode submissions
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -54,6 +55,7 @@ My daily leetcode submissions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3452-sum-of-good-numbers](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -103,6 +105,7 @@ My daily leetcode submissions
 | [0263-ugly-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0504-base-7) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -192,6 +195,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -204,4 +208,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
