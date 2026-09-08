@@ -1,11 +1,13 @@
 class Solution {
     public int countCommas(int n) {
-        int count=0;
-        int base=1000;
-        while(base<=n){
-            count+=n-base+1;
-            base*=1000;
-        }
-        return count;
+        // int count=0;
+        // int base=1000;
+        // while(base<=n){
+        //     count+=n-base+1;
+        //     base*=1000;
+        // }
+        // return count;
+
+        return Math.max(n-999,0);
     }
 }
