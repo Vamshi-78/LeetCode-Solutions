@@ -47,6 +47,7 @@ My daily leetcode submissions
 | [0001-two-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -224,4 +225,12 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
