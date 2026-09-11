@@ -15,6 +15,7 @@ My daily leetcode submissions
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -59,6 +60,7 @@ My daily leetcode submissions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3452-sum-of-good-numbers](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -137,6 +139,7 @@ My daily leetcode submissions
 | [0050-powx-n](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,4 +236,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
