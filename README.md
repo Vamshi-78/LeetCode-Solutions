@@ -29,6 +29,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0143-reorder-list) |
@@ -47,6 +48,7 @@ My daily leetcode submissions
 | ------- |
 | [0001-two-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
