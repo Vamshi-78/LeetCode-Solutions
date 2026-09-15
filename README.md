@@ -40,6 +40,7 @@ My daily leetcode submissions
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My daily leetcode submissions
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
