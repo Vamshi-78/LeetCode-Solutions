@@ -62,6 +62,7 @@ My daily leetcode submissions
 | [0706-design-hashmap](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0941-valid-mountain-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
