@@ -79,6 +79,7 @@ My daily leetcode submissions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -108,6 +109,7 @@ My daily leetcode submissions
 | ------- |
 | [0043-multiply-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -118,6 +120,7 @@ My daily leetcode submissions
 | [0009-palindrome-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -133,6 +136,7 @@ My daily leetcode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
