@@ -9,8 +9,10 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
             ans[0]=i;
             ans[1]=j;
             *returnSize=2;
+            return ans;
             }
         }
     }
-        return ans;
+        *returnSize=0;
+        return NULL;
 }
