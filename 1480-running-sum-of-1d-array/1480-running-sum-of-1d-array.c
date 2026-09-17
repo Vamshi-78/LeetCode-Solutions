@@ -3,11 +3,9 @@
  */
 int* runningSum(int* nums, int numsSize, int* returnSize) {
     int* ans=(int*)malloc(numsSize*sizeof(int));
-    int index=0;
-    ans[index]=nums[0];
+    ans[0]=nums[0];
     for(int i=1;i<numsSize;i++){
-        ans[i]=ans[index]+nums[i];
-        index++;
+        ans[i]=ans[i-1]+nums[i];
     }
     *returnSize=numsSize;
     return ans;
