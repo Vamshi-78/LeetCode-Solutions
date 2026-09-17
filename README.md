@@ -56,6 +56,7 @@ My daily leetcode submissions
 | [0035-search-insert-position](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -122,6 +123,7 @@ My daily leetcode submissions
 | [0009-palindrome-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0202-happy-number) |
