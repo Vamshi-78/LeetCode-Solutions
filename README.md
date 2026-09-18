@@ -67,6 +67,7 @@ My daily leetcode submissions
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -109,6 +110,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
