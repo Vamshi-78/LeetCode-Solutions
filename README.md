@@ -97,6 +97,7 @@ My daily leetcode submissions
 | [0680-valid-palindrome-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ My daily leetcode submissions
 | [1920-build-array-from-permutation](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
