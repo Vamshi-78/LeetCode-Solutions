@@ -66,6 +66,7 @@ My daily leetcode submissions
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0706-design-hashmap](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0941-valid-mountain-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -274,6 +275,7 @@ My daily leetcode submissions
 | ------- |
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
