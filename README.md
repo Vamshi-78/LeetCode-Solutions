@@ -113,6 +113,7 @@ My daily leetcode submissions
 | [0069-sqrtx](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
@@ -148,6 +149,7 @@ My daily leetcode submissions
 | [0202-happy-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0504-base-7) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
