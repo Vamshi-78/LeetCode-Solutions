@@ -145,6 +145,7 @@ My daily leetcode submissions
 | [0009-palindrome-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -281,6 +282,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
@@ -296,4 +298,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
