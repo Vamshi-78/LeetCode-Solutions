@@ -73,6 +73,7 @@ My daily leetcode submissions
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0941-valid-mountain-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -156,6 +157,7 @@ My daily leetcode submissions
 | [0367-valid-perfect-square](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0504-base-7) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
