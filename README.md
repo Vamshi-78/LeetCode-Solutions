@@ -78,6 +78,7 @@ My daily leetcode submissions
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
