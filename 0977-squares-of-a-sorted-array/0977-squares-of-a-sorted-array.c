@@ -3,8 +3,7 @@
  */
 int* sortedSquares(int* nums, int n, int* returnSize) {
     for(int i=0;i<n;i++){
-            int pow=nums[i]*nums[i];
-            nums[i]=pow;
+            nums[i]=nums[i]*nums[i];
         }
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
