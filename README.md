@@ -9,6 +9,7 @@ My daily leetcode submissions
 | [0001-two-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -66,6 +67,7 @@ My daily leetcode submissions
 | [0066-plus-one](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -205,12 +207,14 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
@@ -265,6 +269,7 @@ My daily leetcode submissions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -316,4 +321,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
