@@ -47,6 +47,7 @@ My daily leetcode submissions
 | [0680-valid-palindrome-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -112,6 +113,7 @@ My daily leetcode submissions
 | [0504-base-7](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1768-merge-strings-alternately](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
