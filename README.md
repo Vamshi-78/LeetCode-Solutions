@@ -113,6 +113,7 @@ My daily leetcode submissions
 | [0504-base-7](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -194,6 +195,7 @@ My daily leetcode submissions
 | [0143-reorder-list](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -313,6 +315,7 @@ My daily leetcode submissions
 | ------- |
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Enumeration
 |  |
 | ------- |
@@ -337,4 +340,5 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
