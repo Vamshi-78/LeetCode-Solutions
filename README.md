@@ -69,6 +69,7 @@ My daily leetcode submissions
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -321,12 +322,14 @@ My daily leetcode submissions
 | ------- |
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Enumeration
