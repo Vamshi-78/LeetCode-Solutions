@@ -3,19 +3,29 @@ class Solution {
         int n=nums.length;
         k=k%n;
 
-        // for(int i=0;i<k;i++){
-        //     int temp=nums[0];
-        //     for(int j=1;j<n;j++){
-        //     nums[j-1]=nums[j];
+        // int[] ans=new int[n];
+        // for(int i=0;i<n;i++){
+        //     ans[(i+k)%n]=nums[i];
+        // }
+        // for(int i=0;i<n;i++){
+        //     nums[i]=ans[i];
         // }
 
-        int[] ans=new int[n];
-        for(int i=0;i<n;i++){
-            ans[(i+k)%n]=nums[i];
+        if(k<0){
+            k+=n;
         }
-        for(int i=0;i<n;i++){
-            nums[i]=ans[i];
+        reverse(nums,0,n-1);
+        reverse(nums,0,k-1);
+        reverse(nums,k,n-1);
+
+    }
+    static void reverse(int nums[],int l,int r){
+        while(l<r){
+            int temp=nums[l];
+            nums[l]=nums[r];
+            nums[r]=temp;
+            l++;
+            r--;
         }
-        // nums[n-1]=temp;
     }
 }
