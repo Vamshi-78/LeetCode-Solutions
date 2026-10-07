@@ -6,10 +6,18 @@ class Solution {
         for(int num:nums){
             map.put(num,map.getOrDefault(num,0)+1);
         }
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if(entry.getValue()>(n/3))
-            list.add(entry.getKey());
+
+        // for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+        //     if(entry.getValue()>(n/3))
+        //     list.add(entry.getKey());
+        // }
+
+        for (int key : map.keySet()) {
+            if (map.get(key) > n / 3) {
+            list.add(key);
+            }
         }
+        
         return list;
     }
 }
