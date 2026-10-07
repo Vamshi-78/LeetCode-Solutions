@@ -197,6 +197,7 @@ My daily leetcode submissions
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Pigeonhole Principle
 |  |
