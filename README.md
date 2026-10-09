@@ -273,6 +273,7 @@ My daily leetcode submissions
 | [0110-balanced-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -282,6 +283,7 @@ My daily leetcode submissions
 | [0110-balanced-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -299,6 +301,7 @@ My daily leetcode submissions
 | [0110-balanced-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -378,4 +381,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
