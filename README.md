@@ -91,6 +91,7 @@ My daily leetcode submissions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -126,6 +127,7 @@ My daily leetcode submissions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -388,4 +390,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
