@@ -83,6 +83,7 @@ My daily leetcode submissions
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
@@ -166,6 +167,7 @@ My daily leetcode submissions
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -220,6 +222,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
