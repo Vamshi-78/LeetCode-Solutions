@@ -18,6 +18,7 @@ My daily leetcode submissions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0706-design-hashmap](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1189-maximum-number-of-balloons](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -130,6 +131,7 @@ My daily leetcode submissions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -323,6 +325,7 @@ My daily leetcode submissions
 | [0169-majority-element](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Quickselect
