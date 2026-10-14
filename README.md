@@ -91,6 +91,7 @@ My daily leetcode submissions
 | [0706-design-hashmap](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -166,6 +167,7 @@ My daily leetcode submissions
 | ------- |
 | [0048-rotate-image](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2679-sum-in-a-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Simulation
@@ -176,6 +178,7 @@ My daily leetcode submissions
 | [0067-add-binary](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
