@@ -157,6 +157,7 @@ My daily leetcode submissions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
@@ -416,4 +417,8 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
