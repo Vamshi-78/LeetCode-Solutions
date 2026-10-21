@@ -106,6 +106,7 @@ My daily leetcode submissions
 | [1408-string-matching-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -248,6 +249,7 @@ My daily leetcode submissions
 | [0856-score-of-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Recursion
@@ -299,6 +301,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
 | ------- |
