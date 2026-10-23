@@ -100,6 +100,7 @@ My daily leetcode submissions
 | [0905-sort-array-by-parity](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -217,6 +218,7 @@ My daily leetcode submissions
 | [0415-add-strings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
