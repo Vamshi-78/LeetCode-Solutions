@@ -21,6 +21,7 @@ My daily leetcode submissions
 | [0981-time-based-key-value-store](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -57,6 +58,7 @@ My daily leetcode submissions
 | [0977-squares-of-a-sorted-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -115,6 +117,7 @@ My daily leetcode submissions
 | [1929-concatenation-of-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2679-sum-in-a-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
