@@ -156,6 +156,7 @@ My daily leetcode submissions
 | [1021-remove-outermost-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
+| [1544-make-the-string-great](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -265,6 +266,7 @@ My daily leetcode submissions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Recursion
