@@ -165,6 +165,7 @@ My daily leetcode submissions
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3174-clear-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -211,6 +212,7 @@ My daily leetcode submissions
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -272,6 +274,7 @@ My daily leetcode submissions
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
