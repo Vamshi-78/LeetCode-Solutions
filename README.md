@@ -128,6 +128,7 @@ My daily leetcode submissions
 | [2109-adding-spaces-to-a-string](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2679-sum-in-a-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -321,6 +322,7 @@ My daily leetcode submissions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -422,6 +424,7 @@ My daily leetcode submissions
 | [0605-can-place-flowers](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Enumeration
 |  |
 | ------- |
