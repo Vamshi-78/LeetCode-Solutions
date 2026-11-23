@@ -122,6 +122,7 @@ My daily leetcode submissions
 | [1480-running-sum-of-1d-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -324,6 +325,7 @@ My daily leetcode submissions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
@@ -489,6 +491,7 @@ My daily leetcode submissions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Vamshi-78/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Data Stream
 |  |
 | ------- |
